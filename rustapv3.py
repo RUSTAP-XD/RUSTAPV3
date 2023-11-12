@@ -264,7 +264,7 @@ class main_crack():
 "fb_api_req_friendly_name": "authenticate",
 "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",
 "api_key": "882a8490361da98702bf97a021ddc14d"}
-                headers = {'User-Agent': randBuildvsskj(),
+                headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;O5370W) AppleWebKit/537.36 (KHTML, like Gecko)102.0.6802.95 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;Q6120P) AppleWebKit/537.36 (KHTML, like Gecko)90.0.61869.134 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;I5644O) AppleWebKit/537.36 (KHTML, like Gecko)95.0.7600.61 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;E2647M) AppleWebKit/537.36 (KHTML, like Gecko)87.0.37750.136 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;L6446R) AppleWebKit/537.36 (KHTML, like Gecko)84.0.62620.105 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;'(),
 'Content-Type': 'application/x-www-form-urlencoded',
 'Host': 'graph.facebook.com',
 'X-FB-Net-HNI': str(random.randint(20000, 40000)),
@@ -331,7 +331,7 @@ class main_crack():
 "fb_api_req_friendly_name": "authenticate",
 "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",
 "api_key": "882a8490361da98702bf97a021ddc14d"}
-                headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;O1281V) AppleWebKit/537.36 (KHTML, like Gecko)88.0.63300.115 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;'(),
+                headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;O1281V) AppleWebKit/537.36 (KHTML, like Gecko)88.0.63300.115 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;F5831Q) AppleWebKit/537.36 (KHTML, like Gecko)99.0.57179.74 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;V9768C) AppleWebKit/537.36 (KHTML, like Gecko)86.0.57579.97 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;A5758N) AppleWebKit/537.36 (KHTML, like Gecko)82.0.34788.142 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;R2000S) AppleWebKit/537.36 (KHTML, like Gecko)92.0.16113.140 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;Q1035R) AppleWebKit/537.36 (KHTML, like Gecko)102.0.36995.97 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;'(),
 'Content-Type': 'application/x-www-form-urlencoded',
 'Host': 'graph.facebook.com',
 'X-FB-Net-HNI': str(random.randint(20000, 40000)),
@@ -398,7 +398,7 @@ class main_crack():
 "fb_api_req_friendly_name": "authenticate",
 "fb_api_caller_class": "com.facebook.account.login.protocol.Fb4aAuthHandler",
 "api_key": "882a8490361da98702bf97a021ddc14d"}
-                headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;F2854G) AppleWebKit/537.36 (KHTML, like Gecko)82.0.56191.77 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;'(),
+                headers = {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;F2854G) AppleWebKit/537.36 (KHTML, like Gecko)82.0.56191.77 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;W1373J) AppleWebKit/537.36 (KHTML, like Gecko)93.0.6010.43 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;V6205V) AppleWebKit/537.36 (KHTML, like Gecko)94.0.19548.40 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;S5195F) AppleWebKit/537.36 (KHTML, like Gecko)81.0.57363.100 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;Z1567J) AppleWebKit/537.36 (KHTML, like Gecko)102.0.58651.144 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;','Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;T7168W) AppleWebKit/537.36 (KHTML, like Gecko)99.0.50382.65 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;'(),
 'Content-Type': 'application/x-www-form-urlencoded',
 'Host': 'graph.facebook.com',
 'X-FB-Net-HNI': str(random.randint(20000, 40000)),
