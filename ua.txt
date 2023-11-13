@@ -650,3 +650,299 @@ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;N3712Z) AppleWebKit/537.36 
 
 
  Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;W835W) AppleWebKit/537.36 (KHTML, like Gecko)86.0.60036.111 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;M4320D) AppleWebKit/537.36 (KHTML, like Gecko)96.0.60084.94 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;L2455I) AppleWebKit/537.36 (KHTML, like Gecko)81.0.10157.77 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+                                                                                                                                                                   Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;D6971N) AppleWebKit/537.36 (KHTML, like Gecko)88.0.25105.74 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;                                                      
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;P7600W) AppleWebKit/537.36 (KHTML, like Gecko)102.0.58380.69 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+                                                                                 
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;B548E) AppleWebKit/537.36 (KHTML, like Gecko)89.0.33544.85 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;N6481A) AppleWebKit/537.36 (KHTML, like Gecko)96.0.11901.99 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;Q2907D) AppleWebKit/537.36 (KHTML, like Gecko)90.0.59334.145 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;M6676O) AppleWebKit/537.36 (KHTML, like Gecko)92.0.40314.80 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;G3042U) AppleWebKit/537.36 (KHTML, like Gecko)102.0.40720.86 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;D2704F) AppleWebKit/537.36 (KHTML, like Gecko)100.0.27094.135 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;F6513F) AppleWebKit/537.36 (KHTML, like Gecko)92.0.28801.140 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;G376R) AppleWebKit/537.36 (KHTML, like Gecko)95.0.60730.121 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;A4887C) AppleWebKit/537.36 (KHTML, like Gecko)85.0.40116.149 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;B5362T) AppleWebKit/537.36 (KHTML, like Gecko)85.0.21696.56 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;X9775R) AppleWebKit/537.36 (KHTML, like Gecko)92.0.21031.127 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;V6624N) AppleWebKit/537.36 (KHTML, like Gecko)93.0.36135.79 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;T3605S) AppleWebKit/537.36 (KHTML, like Gecko)89.0.50983.130 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;P3399M) AppleWebKit/537.36 (KHTML, like Gecko)87.0.27489.149 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;O8756C) AppleWebKit/537.36 (KHTML, like Gecko)100.0.43527.74 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;P4191Z) AppleWebKit/537.36 (KHTML, like Gecko)83.0.43779.107 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;J7835W) AppleWebKit/537.36 (KHTML, like Gecko)81.0.59240.66 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;P1708D) AppleWebKit/537.36 (KHTML, like Gecko)91.0.9506.110 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;A1751C) AppleWebKit/537.36 (KHTML, like Gecko)93.0.13848.81 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;Z1407A) AppleWebKit/537.36 (KHTML, like Gecko)96.0.20663.123 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;C3432I) AppleWebKit/537.36 (KHTML, like Gecko)100.0.10919.121 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;G1011D) AppleWebKit/537.36 (KHTML, like Gecko)87.0.28964.146 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;M4461D) AppleWebKit/537.36 (KHTML, like Gecko)93.0.6450.137 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;K8138C) AppleWebKit/537.36 (KHTML, like Gecko)92.0.42009.59 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;I984A) AppleWebKit/537.36 (KHTML, like Gecko)93.0.60458.82 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;I5812U) AppleWebKit/537.36 (KHTML, like Gecko)89.0.64411.123 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;F5670E) AppleWebKit/537.36 (KHTML, like Gecko)102.0.31904.123 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;Q6207Y) AppleWebKit/537.36 (KHTML, like Gecko)80.0.64372.133 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;D1392A) AppleWebKit/537.36 (KHTML, like Gecko)84.0.44252.61 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;N1002I) AppleWebKit/537.36 (KHTML, like Gecko)93.0.60272.44 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;X9065L) AppleWebKit/537.36 (KHTML, like Gecko)98.0.37857.47 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;P1360G) AppleWebKit/537.36 (KHTML, like Gecko)88.0.60549.53 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;J1705U) AppleWebKit/537.36 (KHTML, like Gecko)80.0.50776.97 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;Q8939Y) AppleWebKit/537.36 (KHTML, like Gecko)86.0.26266.111 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;O9534H) AppleWebKit/537.36 (KHTML, like Gecko)95.0.50938.112 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;V8532H) AppleWebKit/537.36 (KHTML, like Gecko)91.0.52895.116 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;C1787G) AppleWebKit/537.36 (KHTML, like Gecko)91.0.22987.59 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;B9659F) AppleWebKit/537.36 (KHTML, like Gecko)82.0.32414.75 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;D1332L) AppleWebKit/537.36 (KHTML, like Gecko)86.0.59505.40 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;G2802W) AppleWebKit/537.36 (KHTML, like Gecko)87.0.52835.90 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;Z9756S) AppleWebKit/537.36 (KHTML, like Gecko)98.0.6019.96 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;H8047G) AppleWebKit/537.36 (KHTML, like Gecko)95.0.12802.89 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;V6329D) AppleWebKit/537.36 (KHTML, like Gecko)84.0.5902.104 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;H3638P) AppleWebKit/537.36 (KHTML, like Gecko)88.0.47852.121 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;K5057R) AppleWebKit/537.36 (KHTML, like Gecko)80.0.25425.95 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;B4171G) AppleWebKit/537.36 (KHTML, like Gecko)82.0.16739.91 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 10; Linux; Android 13;R4041M) AppleWebKit/537.36 (KHTML, like Gecko)89.0.60997.66 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;V3029P) AppleWebKit/537.36 (KHTML, like Gecko)90.0.27606.61 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;D9552O) AppleWebKit/537.36 (KHTML, like Gecko)84.0.49136.94 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;S5797X) AppleWebKit/537.36 (KHTML, like Gecko)102.0.22402.74 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;X3161B) AppleWebKit/537.36 (KHTML, like Gecko)82.0.44902.100 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;I9237L) AppleWebKit/537.36 (KHTML, like Gecko)88.0.12184.107 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;J9204R) AppleWebKit/537.36 (KHTML, like Gecko)102.0.7003.86 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;O5477K) AppleWebKit/537.36 (KHTML, like Gecko)99.0.13319.103 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;W5660P) AppleWebKit/537.36 (KHTML, like Gecko)92.0.15753.49 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;R706F) AppleWebKit/537.36 (KHTML, like Gecko)94.0.59956.110 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;C9668J) AppleWebKit/537.36 (KHTML, like Gecko)94.0.62399.110 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;S7492W) AppleWebKit/537.36 (KHTML, like Gecko)90.0.22132.85 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;T3200K) AppleWebKit/537.36 (KHTML, like Gecko)92.0.7542.76 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;G2958M) AppleWebKit/537.36 (KHTML, like Gecko)99.0.6357.80 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;I9904R) AppleWebKit/537.36 (KHTML, like Gecko)101.0.28197.86 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;K3172K) AppleWebKit/537.36 (KHTML, like Gecko)101.0.46354.47 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;B1680V) AppleWebKit/537.36 (KHTML, like Gecko)96.0.52214.90 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;U4757F) AppleWebKit/537.36 (KHTML, like Gecko)99.0.5742.89 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;E7248M) AppleWebKit/537.36 (KHTML, like Gecko)101.0.27441.134 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;R7362C) AppleWebKit/537.36 (KHTML, like Gecko)80.0.61353.68 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;Z6625T) AppleWebKit/537.36 (KHTML, like Gecko)85.0.26448.147 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;W7174F) AppleWebKit/537.36 (KHTML, like Gecko)80.0.19000.69 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;T5785T) AppleWebKit/537.36 (KHTML, like Gecko)90.0.32147.112 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;W2804K) AppleWebKit/537.36 (KHTML, like Gecko)86.0.35955.113 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;T3286U) AppleWebKit/537.36 (KHTML, like Gecko)87.0.53103.88 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;D937G) AppleWebKit/537.36 (KHTML, like Gecko)90.0.33101.116 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;A5921O) AppleWebKit/537.36 (KHTML, like Gecko)91.0.35205.104 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;B3145C) AppleWebKit/537.36 (KHTML, like Gecko)84.0.52241.129 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;V7399W) AppleWebKit/537.36 (KHTML, like Gecko)100.0.57566.55 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;S9915G) AppleWebKit/537.36 (KHTML, like Gecko)94.0.56965.71 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;O166F) AppleWebKit/537.36 (KHTML, like Gecko)85.0.16267.42 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;R4073W) AppleWebKit/537.36 (KHTML, like Gecko)84.0.45922.136 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;F7858K) AppleWebKit/537.36 (KHTML, like Gecko)101.0.17796.131 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;Y647Q) AppleWebKit/537.36 (KHTML, like Gecko)90.0.50143.118 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;B2122O) AppleWebKit/537.36 (KHTML, like Gecko)84.0.19344.41 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;M9361U) AppleWebKit/537.36 (KHTML, like Gecko)85.0.60594.81 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 13; Linux; Android 13;O8841E) AppleWebKit/537.36 (KHTML, like Gecko)91.0.62404.58 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;N584R) AppleWebKit/537.36 (KHTML, like Gecko)92.0.62944.98 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;A5278J) AppleWebKit/537.36 (KHTML, like Gecko)85.0.37126.134 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 8; Linux; Android 13;D4468F) AppleWebKit/537.36 (KHTML, like Gecko)80.0.52977.68 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;A8244E) AppleWebKit/537.36 (KHTML, like Gecko)95.0.59738.126 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 6; Linux; Android 13;A6938L) AppleWebKit/537.36 (KHTML, like Gecko)96.0.22114.149 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;D614Q) AppleWebKit/537.36 (KHTML, like Gecko)92.0.28087.147 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 9; Linux; Android 13;I9933M) AppleWebKit/537.36 (KHTML, like Gecko)85.0.46363.129 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;U6390T) AppleWebKit/537.36 (KHTML, like Gecko)99.0.13167.113 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 11; Linux; Android 13;L3277K) AppleWebKit/537.36 (KHTML, like Gecko)93.0.12058.133 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;N3929F) AppleWebKit/537.36 (KHTML, like Gecko)100.0.64906.115 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;F6713G) AppleWebKit/537.36 (KHTML, like Gecko)102.0.49093.90 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 7; Linux; Android 13;B7018F) AppleWebKit/537.36 (KHTML, like Gecko)96.0.6791.86 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
+
+
+ Mozilla/5.0 (Linux; Android 13; 12; Linux; Android 13;H5310R) AppleWebKit/537.36 (KHTML, like Gecko)90.0.44182.133 Chrome/113.0.5672.162 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/417.0.0.33.65;
